@@ -22,7 +22,7 @@
 						<form action="" method="post" id="categoryFrom" name="categoryForm">
 							<div class="card">
 								<div class="card-body">								
-									<div class="row">
+									<div class="row"> 
 										<div class="col-md-6">
 											<div class="mb-3">
 												<label for="name">Name</label>
